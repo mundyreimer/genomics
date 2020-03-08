@@ -1,5 +1,5 @@
 # genomics
-A collection of personal machine learning projects applied to bioinformatics &amp; metagenomic data.  Tutorials and project write-ups will be available on [my personal blog](https://mundyreimer.github.io/), in addition to [Medium](https://medium.com/@mundyreimer).
+A collection of personal machine learning projects applied to bioinformatics &amp; metagenomic data.  Tutorials and project write-ups will be available on [my personal blog](https://mundyreimer.github.io/), in addition to being hosted on [Medium](https://medium.com/@mundyreimer).
 
 ---
 
