@@ -1,2 +1,9 @@
 # genomics
-A collection of machine learning projects applied to bioinformatics &amp; metagenomic data for articles on personal blog &amp; Medium.
+A collection of personal machine learning projects applied to bioinformatics &amp; metagenomic data.  Tutorials and project write-ups will be available on [my personal blog](https://mundyreimer.github.io/), in addition to [Medium](https://medium.com/@mundyreimer).
+
+---
+
+## Table of Contents
+* Introduction to Genomic Data Science
+* Analyzing Genetic Sequences in Python
+* Cluster Analysis w/ Genomic Data
