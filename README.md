@@ -7,3 +7,9 @@ A collection of personal machine learning projects applied to bioinformatics &am
 * Introduction to Genomic Data Science
 * Analyzing Genetic Sequences in Python
 * Cluster Analysis w/ Genomic Data
+
+---
+
+## Future / To Do List
+* Topological Data Analysis for Genomics
+* Distance Metrics Overview
