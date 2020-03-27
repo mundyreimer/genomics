@@ -12,4 +12,4 @@ A collection of personal machine learning projects applied to bioinformatics &am
 
 ## Future / To Do List
 * Topological Data Analysis for Genomics
-* Distance Metrics Overview
+* Overview of Various Distance Metrics
