@@ -14,3 +14,4 @@ A collection of personal machine learning projects applied to bioinformatics &am
 * Topological Data Analysis for Genomics
 * Overview of Various Distance Metrics
 * A Comparison of Cluster Methods
+* Command Line Tools for Bioinformatics
