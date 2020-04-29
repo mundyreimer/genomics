@@ -12,9 +12,9 @@ A collection of personal machine learning projects applied to bioinformatics &am
 
 ## Future / To Do List
 * Topological Data Analysis for Genomics
-* Command Line Tools for Bioinformatics
 * Overview of Various Distance Metrics
 * A Comparison of Cluster Methods
+* Command Line Tools for Bioinformatics
 * Visualization Tools for Genomics
 * Deep Learning with Genomic Data
 
