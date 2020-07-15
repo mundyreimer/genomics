@@ -16,7 +16,7 @@ A collection of personal machine learning projects applied to bioinformatics &am
 * Overview of Various Distance Metrics
 * Visualization Tools for Genomics
 * A Comparison of Cluster Methods
-* Deep Learning with Genomic Data
 * Topological Data Analysis for Genomics
+* Deep Learning with Genomic Data
 
 
