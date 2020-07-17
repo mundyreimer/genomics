@@ -6,8 +6,8 @@ A collection of personal machine learning projects applied to bioinformatics &am
 ## Table of Contents
 * Introduction to Genomic Data Science
 * Analyzing Genetic Sequences in Python
-* Cluster Analysis w/ Genomic Data
 * [Analyzing Microbiome Data](https://towardsdatascience.com/analyzing-microbiome-data-320728b56b8e)
+* Cluster Analysis w/ Genomic Data
 
 ---
 
